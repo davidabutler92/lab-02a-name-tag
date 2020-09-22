@@ -1,4 +1,4 @@
-# name-tag
+# lab-02a-name-tag
 
 ## Goal
 
@@ -9,13 +9,13 @@
 #### Create an application create a cool name tag using HTML and CSS
 
 ## Setup/Installation Requirements
-* Sign into your github and navigate to this link [click here](https://github.com/davidabutler92/name-tag.git) 
+* Sign into your github and navigate to this link [click here](https://github.com/davidabutler92/lab-02a-name-tag.git) 
 * Under the repository name, click Clone, 'green button'
 * Then click the copy button next to the URL
-* Open the terminal and type, git clone https://github.com/davidabutler92/language-suggester.git to your new directory
+* Open the terminal and type, git clone https://github.com/davidabutler92/lab-02a-name-tag.git to your new directory
 * Open project in text editor to view code
 * From your text editor, drag index.html to the browser to view in the browser
-* To see on gh-pages [Click here](https://davidabutler92.github.io/name-tag/)  
+* To see on gh-pages [Click here](https://davidabutler92.github.io/lab-02a-name-tag/)  
 
 ## Known Bugs 
 #### There are no known bugs at the time.
