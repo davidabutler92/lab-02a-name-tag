@@ -6,6 +6,19 @@ p {
   margin: 0;
 }
 
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: black;
+}
+
+.dark-mode {
+  background-color: black;
+  color: white;
+}
+
 .name-tag {
   box-shadow: 5px 10px #888888;
   width: 390px;
@@ -28,13 +41,6 @@ p {
   font-weight: bolder;
 }
 
-.flex-center {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-}
-
 section {
   background-color: white;
   color: black;
@@ -45,6 +51,14 @@ section {
   height: 130px;
   font-size: 2em;
   text-transform: uppercase;
+}
+
+button {
+  margin-top: 10px;
+}
+
+input {
+  margin-top: 20px;
 }
 
 
