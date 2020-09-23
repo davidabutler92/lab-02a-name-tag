@@ -4,6 +4,7 @@ const darkMode = document.getElementById('dark-mode');
 
 document.getElementById('name-tag-btn').addEventListener('click', () => {
   newName.textContent = userInput.value;
+  userInput.value = ''
 });
 
 darkMode.addEventListener('click', () => {
